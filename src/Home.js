@@ -13,9 +13,9 @@ function Home() {
                 <div className="home__row">
                     <Product 
                         id="11111111"
-                        title='Greenworks 2600802 8 Amp 12-Inch Corded Snow Shovel'
-                        price={29.99}
-                        image="https://m.media-amazon.com/images/I/41ZvHeOwF4L._AC_SY240_.jpg"  
+                        title='Apple iPad 9.7 with WiFi, 128GB- Space Gray (2017 Newest Model) (Renewed)'
+                        price={549.00}
+                        image="https://m.media-amazon.com/images/I/61g2VZBU88L._AC_UL320_.jpg"  
                         rating={5}
                     />
                     <Product
@@ -34,12 +34,12 @@ function Home() {
                         image="https://m.media-amazon.com/images/I/417cPNDgP8L.__AC_SY200_.jpg"
                         rating={4}
                     />
-                    <Product 
-                        id="44444444"
-                        title="Nikon D780 Kit with AF-S FX 24-120mm f/4G ED VR Lens"
-                        price={3164.71}
-                        image="https://images-na.ssl-images-amazon.com/images/I/41kHl4S7X7L.jpg"
-                        rating={5}
+                     <Product 
+                        id="66666666"
+                        title="Ring Spotlight Cam Battery HD Security Camera with Built Two-Way Talk and a Siren Alarm"
+                        price={249.99}
+                        image="https://m.media-amazon.com/images/I/61iHVDUfWlL._AC_UL320_.jpg"
+                        rating={4}
                     />
                     <Product 
                         id="55555555"
@@ -51,10 +51,10 @@ function Home() {
                 </div>
                 <div className="home__row">
                     <Product 
-                        id="66666666"
-                        title="Ring Spotlight Cam Battery HD Security Camera with Built Two-Way Talk and a Siren Alarm, White, Works with Alexa"
-                        price={249.99}
-                        image="https://m.media-amazon.com/images/I/61iHVDUfWlL._AC_UL320_.jpg"
+                        id="44444444"
+                        title="Smart Watch for Android iOS,Fitness Tracker with Blood Pressure Heart Rate Blood Oxygen Monitor,Pedometer,Watches for Men Women,Sleep Tracker,Call Messages Reminder,IP68 Waterproof, Full-Touch Screen"
+                        price={149.99}
+                        image="https://m.media-amazon.com/images/I/61hF4wF5aZL._AC_UL320_.jpg"
                         rating={4}
                     />
                 </div>
