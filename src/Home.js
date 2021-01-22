@@ -37,7 +37,7 @@ function Home() {
                     <Product 
                         id="44444444"
                         title="Nikon D780 Kit with AF-S FX 24-120mm f/4G ED VR Lens"
-                        price={3,164.71}
+                        price={3164.71}
                         image="https://images-na.ssl-images-amazon.com/images/I/41kHl4S7X7L.jpg"
                         rating={5}
                     />
