@@ -15,7 +15,7 @@ function Login() {
         // firebase login stuff
         auth    
             .signInWithEmailAndPassword(email, password)
-            .then((auth) => {
+            .then(auth => {
                 history.push('/');
             })
             .catch(error => alert(error.message))
