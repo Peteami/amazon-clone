@@ -1,0 +1,121 @@
+.footer__toTop {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: #37475a;
+  font-size: 13px;
+  font-weight: 500;
+  color: white;
+  padding: 20px 0;
+}
+
+.footer__links {
+  /* width: 100%; */
+  background-color: #232f3e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 40px 10px;
+}
+
+.footer__LinksSpacer {
+  width: 8%;
+}
+
+.footer__linksColumn {
+  color: white;
+}
+
+.footer__linksColumn > h4 {
+  font-size: 16px;
+  padding-bottom: 15px;
+}
+
+.footer__linksColumn > p {
+  font-size: 15px;
+  padding-bottom: 10px;
+  line-height: 1.2;
+}
+
+.footer__linksColumn > p:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.footer__amazonLogo {
+  border-top: 1px solid #3a4553;
+  background-color: #232f3e;
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: white;
+}
+
+.footer__amazonLogo > img {
+  width: 80px;
+  object-fit: contain;
+  margin-right: 90px;
+}
+
+.footer__conditions {
+  width: 100%;
+  background-color: #131a22;
+  padding-bottom: 35px;
+}
+
+.footer__conditionsLinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 40px 10px 20px 10px;
+}
+
+.footer__conditionsSpacer {
+  width: 6%;
+}
+
+.footer__conditionsBlock {
+  padding-bottom: 25px;
+}
+
+.footer__conditionsBlock:hover > p,
+.footer__conditionsBlock:hover > h6 {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.footer__conditionsBlock > h6 {
+  color: lightgray;
+  font-size: 11px;
+}
+
+.footer__conditionsBlock > p {
+  color: gray;
+  font-size: 9px;
+}
+
+.footer__conditionsCopyright {
+  color: lightgray;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.footer__conditionsCopyright > span {
+  margin-right: 15px;
+  font-size: 11px;
+  font-weight: bolder;
+}
+
+.footer__conditionsCopyright > span:first-child:hover,
+.footer__conditionsCopyright > span:nth-child(2):hover,
+.footer__conditionsCopyright > span:nth-child(3):hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.buttonFooter {
+  padding-right: 20px;
+}
